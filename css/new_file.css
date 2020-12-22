@@ -1,0 +1,45 @@
+@charset "utf-8";
+.title{
+	color:read;
+	font-size:100px;
+	font-weight: bold;
+	text-align: center;
+}
+.header{
+	height: 300px;
+	width: 1620px;
+	background-image: url(../img/11.png);
+	margin: auto;
+}
+.body{
+	height: 3000px;
+	width: 101.25rem;
+	margin: auto;
+}
+.w{
+	height: 300px;
+	width: 1620;
+}
+.w1{
+	height: 300px;
+	width: 500px;
+	float: left;
+}
+
+.w2{
+	height: 300px;
+	width: 1100px;
+	float: right;
+}
+
+.box{
+	animation: animated-boder 1.5s infinite;
+	font-family: arial;
+	font-size: 18px;
+	line-height: 30px;
+	font-weight: bold;
+	color: black;
+	border: 2px solid;
+	boeder-radius:10px;
+	padding: 15x;
+}
